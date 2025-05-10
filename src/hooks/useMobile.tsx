@@ -1,0 +1,7 @@
+const useMobile = () => {
+    const isMobile = window.innerWidth <= 768;
+    
+    return {
+        isMobile,
+    };
+}
