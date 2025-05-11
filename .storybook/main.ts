@@ -12,12 +12,12 @@ const config: StorybookConfig = {
   },
   managerHead: (head) => `
     ${head}
-    <link rel="icon" href="./public/logo.png" />
+    <link rel="icon" href="/logo.png" />
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
   `,
   previewHead: (head) => `
     ${head}
-    <link rel="icon" href="./public/logo.png" />
+    <link rel="icon" href="/logo.png" />
   `,
 };
 export default config;

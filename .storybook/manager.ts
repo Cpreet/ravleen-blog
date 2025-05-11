@@ -7,9 +7,6 @@ addons.setConfig({
     zoom: {
       hidden: true,
     },
-    eject: {
-      hidden: true,
-    },
     copy: { hidden: true },
     measure: { hidden: true },
     'storybook/background': {hidden: true},
